@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration of the Lords and Commons assembled in Parliament for the protection of Sir William Brereton, in the county of Chester, who hath lately been proclaimed a traytor by His Majesty</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <extent>Approx. 3KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B21946</idno><idno type="EEBO-CITATION">11232506</idno>
+  <idno type="VID">204943</idno>
+  <idno type="EEBO-PROQUEST">2264184754</idno>
+  
+            <idno type="STC">Wing E1422A</idno>
+            <idno type="OCLC">11232506</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B21946)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 204943)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1440:79)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration of the Lords and Commons assembled in Parliament for the protection of Sir William Brereton, in the county of Chester, who hath lately been proclaimed a traytor by His Majesty</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>1 broadside.   </extent>
+               <publicationStmt>
+                  <publisher>Printed J. Wright ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642 [i.e. 1643]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"January 12, 1642. Ordered by the Lords and Commons assembled in Paliament, that this declaration be forthwith printed and published and read in all parish churches and chappels in the</note>
+                  <note>Reproduction of the original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Brereton, William, --  Sir, 1604-1661.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="declaration">
+            <pb facs="tcp:204943:1"/>
+            <head>A DECLARATION OF THE LORDS and COMMONS assembled in Parlia<g ref="char:EOLhyphen"/>ment, for the protection of Sir <hi>William Brereton,</hi> in the County of <hi>Chester,</hi> who hath lately been proclaimed a Traytor by His MAIESTY.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas His Majesty hath set forth and comman<g ref="char:EOLhyphen"/>ded to be published in the County of <hi>Chester,</hi> divers printed papers in the forme of Procla<g ref="char:EOLhyphen"/>mations, whereby Sir <hi>William Brereton</hi> Baronet, a person well affected to the publique, is with<g ref="char:EOLhyphen"/>out processe of law or judgement proclaimed Traytor, who hath carefully performed his duty in assisting the Parliament, and opposing those wicked Councellors and Cava<g ref="char:EOLhyphen"/>lieres about the King, which endeavour the destruction of our Religion, and desolation of this land.</p>
+            <p>The Lords and Commons in Parliament do declare, that the said printed papers in the forme of proclamations, and the pub<g ref="char:EOLhyphen"/>lishing thereof, are against the lawes of this Kingdom; and that such persons as have been, or hereafter shal be proclaimed Trai<g ref="char:EOLhyphen"/>tors by the said printed papers, or any other of the like nature, shal be defended and protected by the power and authority of Parliament, from any dammage or prejudice to their persons or estates, by reason or colour of any such printed papers, or proclamations, heretofore published, or which shal be hereafter published or contrived against them; And the said Lords and Commons do hereby strictly forbid the publishing of any such printed papers or proclamations; And do authorize and re<g ref="char:EOLhyphen"/>quire all Officers and other His Majesties good Subjects to ap<g ref="char:EOLhyphen"/>prehend, and to bring in safe custody to the Parliament, and to seize their goods and profits of their Lands, to be accomptable for the same to both Houses of Parliament, all such persons as have already published, or which shal hereafter publish any such printed papers or Proclamations, to the end they may receive due punishment for their offences.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <opener>
+                           <dateline>
+                              <date>January 12. 1642.</date>
+                           </dateline>
+                        </opener>
+                        <p>ORdered by the Lords and Commons Assembled in Parliament, That this Declaration be forthwith Printed and published, and read in all Parish Chur<g ref="char:EOLhyphen"/>ches and Chappels in the County and City of <hi>Chester,</hi> by the Parsons, Vicars, or Curates of the same.</p>
+                        <closer>
+                           <signed>H. Elsynge Cler. Parl. D. Com.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>J. Wright</hi> in the Old-baily. 1642.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
